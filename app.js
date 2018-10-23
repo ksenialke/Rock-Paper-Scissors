@@ -74,7 +74,6 @@ function game(userChoice) {
         case "ss":
             draw(userChoice);
             break;
-
     }
 }
 
